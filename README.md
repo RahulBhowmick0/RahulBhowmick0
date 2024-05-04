@@ -27,9 +27,9 @@ Hi 👋, I'm Rahul B. aka 7omahawk, I'm passionate at Cybersecurity and regular 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 # 📊 GitHub Stats:
-![7omahawk's Stats](https://github-readme-stats.vercel.app/api?username=7omahawk&theme=blue-green&show_icons=true&hide_border=false&count_private=true)<br/>
-![7omahawk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=7omahawk&theme=blue-green&hide_border=false)<br/>
-![7omahawk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7omahawk&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+![7omahawk's Stats](https://github-readme-stats.vercel.app/api?username=7omahawk&theme=blue-green&show_icons=true&hide_border=true&count_private=true)<br/>
+![7omahawk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=7omahawk&theme=blue-green&hide_border=true)<br/>
+![7omahawk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7omahawk&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 ## 👁️ Profile Views
 
 [![](https://visitcount.itsvg.in/api?id=7omahawk&label=Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
