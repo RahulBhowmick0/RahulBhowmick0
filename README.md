@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Rahul B. aka 7omahawk, I'm passionate at Cybersecurity and regular learner. Currently I'm practicing CTF on tryhackme. My goal is to learn about offensive security. Welcome to my GitHub Profile.
+Hi 👋, I'm Rahul B. aka 7omahawk, passionate about Cybersecurity and a regular learner. Currently, I'm practicing CTF on [TryHackMe](https://tryhackme.com/p/7omahawk)
+. My goal is to learn about offensive security. Welcome to my GitHub Profile.
 
 
 ## 🌐 Social Media:
