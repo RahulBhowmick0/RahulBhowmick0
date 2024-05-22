@@ -12,6 +12,8 @@ Hi 👋, I'm Rahul B. aka 7omahawk, passionate about Cybersecurity and a regular
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/852533027283927071)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@7omahawk)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@7omahawk.official)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue)
+
 
 
 # 💻 Technologies:
